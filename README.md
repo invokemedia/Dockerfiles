@@ -1,8 +1,6 @@
 # Dockerfiles
 
-## PHP
+## Laravel
 
-Creates a PHP image.
-
-## Nginx
+Creates a Laravel optimized Docker image with PHP & Nginx.
 
