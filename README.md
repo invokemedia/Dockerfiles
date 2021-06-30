@@ -10,7 +10,7 @@ Creates a Laravel optimized Docker image with PHP & Nginx.
 
 ```bash
 $ cd laravel
-$ docker build -t invokemedia/laravel:tag .
+$ docker build -t invokedigital/laravel:tag .
 $ docker push invokedigital/laravel:tag
 ```
 
